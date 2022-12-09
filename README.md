@@ -38,3 +38,12 @@ In order to make the mechanical rod connected to the flower to be able to move c
 ![IMG_7354](https://user-images.githubusercontent.com/119873931/206727966-90a9c0fe-92e1-41aa-a3e6-00c567a50e43.JPG)
 ![IMG_7301](https://user-images.githubusercontent.com/119873931/206727979-6ea7a083-992f-459c-a097-083d6dddd16a.JPG)
 ![IMG_4CE6E63A8FE6-1](https://user-images.githubusercontent.com/119873931/206728151-007c1f9a-0a20-46c9-bea8-b7eb331d98eb.jpeg)
+# week 9:
+Building the device housing and circuit connections
+We painted the branches wrapped in kitchen paper, and to make it more like a mechanical plant, we kept some metallic texture in the gaps of the branches, and we thought about how to connect the heavy robot arm and the flower inside the box and keep the three servos controlling the robot arm from interfering with the movement. We bought three different model clays, but the first time we bought the wrong one because it was hard to shape and dry. We then mixed the two types of milliput clay, made the base of the robot arm, and filled the clay around it to keep it in place, then hollowed out the partition to hide the electrical lines underneath 
+### input: Pressure  Distance
+### output: Servo Telescopic rod
+![IMG_AE61B1196CD8-1](https://user-images.githubusercontent.com/119873931/206729437-c55dc430-ca58-4449-a439-624dde819d5d.jpeg)
+![IMG_FE06C1E5A74F-1](https://user-images.githubusercontent.com/119873931/206729786-9a58905e-4db0-4b77-8a81-5abcfb7c0d9c.jpeg)
+![IMG_2119](https://user-images.githubusercontent.com/119873931/206729838-0a39e320-f21d-4f60-9c60-c9bf1d9ae083.jpg)
+### YOUTUBE LINK：https://youtu.be/L-8CkHXJ9do
